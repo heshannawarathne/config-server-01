@@ -7,6 +7,9 @@ spring:
     url: jdbc:mysql://localhost:3306/department2_db?createDatabaseIfNotExist=true
     username: root
     password: Pramod@12
+  boot:
+    message: hello,department service
+  
 
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
