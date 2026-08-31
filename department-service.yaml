@@ -2,9 +2,6 @@ server:
   port: 8080
 
 spring:
-  application:
-    name:
-
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/department2_db?createDatabaseIfNotExist=true
