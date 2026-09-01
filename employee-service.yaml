@@ -8,6 +8,8 @@ spring:
     url: jdbc:mysql://localhost:3306/employee2_db?createDatabaseIfNotExist=true
     username: root
     password: Pramod@12
+  boot:
+    message: hello,service service test 1
 
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
