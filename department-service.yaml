@@ -8,7 +8,7 @@ spring:
     username: root
     password: Pramod@12
   boot:
-    message: hello,department service test 1
+    message: hello,department service test 2
   
 
   jpa:
