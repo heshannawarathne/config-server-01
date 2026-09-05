@@ -9,7 +9,7 @@ spring:
     username: root
     password: Pramod@12
   boot:
-    message: hello,employee service test 3
+    message: hello,employee service test 4
 
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
