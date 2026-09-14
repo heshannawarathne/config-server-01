@@ -10,6 +10,7 @@ spring:
     password: Pramod@12
   boot:
     message: test message 04
+    message2: test uni id 01
 
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
