@@ -10,7 +10,7 @@ spring:
   boot:
     message: hello,department service test 24
     message1: hello,department service test09
-   message2: department service
+   message2: department service 02
 
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
